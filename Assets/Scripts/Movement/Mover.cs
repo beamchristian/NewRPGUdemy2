@@ -1,14 +1,13 @@
-using System.Collections;
-using System.Collections.Generic;
 using RPG.Core;
 using UnityEngine;
 using UnityEngine.AI;
 using RPG.Saving;
+using RPG.Attributes;
 
 namespace RPG.Movement
 {
 
-public class Mover : MonoBehaviour, IAction, ISaveable
+    public class Mover : MonoBehaviour, IAction, ISaveable
 {
     [SerializeField] Transform target;
     [SerializeField] float maxSpeed = 6f;

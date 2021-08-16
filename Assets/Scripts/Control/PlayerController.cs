@@ -1,12 +1,11 @@
-using System;
 using RPG.Combat;
-using RPG.Core;
 using RPG.Movement;
 using UnityEngine;
+using RPG.Attributes;
 
 namespace RPG.Control
 {
-public class PlayerController : MonoBehaviour
+    public class PlayerController : MonoBehaviour
 {
     Health health;
 

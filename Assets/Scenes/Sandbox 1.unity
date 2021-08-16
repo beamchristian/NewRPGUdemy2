@@ -596,9 +596,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 734710393871134537, guid: 2742988d17e4cc544b5c1bf64565efd2, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 12
+      objectReference: {fileID: 0}
     - target: {fileID: 1638999835207452018, guid: 2742988d17e4cc544b5c1bf64565efd2, type: 3}
       propertyPath: m_BaseOffset
       value: -0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5137108094254999779, guid: 2742988d17e4cc544b5c1bf64565efd2, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 118
       objectReference: {fileID: 0}
     - target: {fileID: 5264736564302558495, guid: 2742988d17e4cc544b5c1bf64565efd2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -671,6 +679,14 @@ PrefabInstance:
     - target: {fileID: 6077280896941440931, guid: 2742988d17e4cc544b5c1bf64565efd2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6959096090445535090, guid: 2742988d17e4cc544b5c1bf64565efd2, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 171
+      objectReference: {fileID: 0}
+    - target: {fileID: 8047464236155142959, guid: 2742988d17e4cc544b5c1bf64565efd2, type: 3}
+      propertyPath: startingLevel
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 8943639170553171868, guid: 2742988d17e4cc544b5c1bf64565efd2, type: 3}
       propertyPath: m_LocalPosition.x
