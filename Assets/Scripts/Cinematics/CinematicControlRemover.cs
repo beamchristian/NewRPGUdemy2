@@ -10,7 +10,7 @@ namespace RPG.Cinematics
         GameObject player;
 
         private void Awake() {
-            player = GameObject.FindWithTag("player");
+            player = GameObject.FindWithTag("Player");
         }
 
         private void OnEnable() {
