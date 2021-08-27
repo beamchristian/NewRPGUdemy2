@@ -3399,6 +3399,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3715719918312853601, guid: 2742988d17e4cc544b5c1bf64565efd2, type: 3}
+      propertyPath: maxNavPathLength
+      value: 40
+      objectReference: {fileID: 0}
     - target: {fileID: 3923808201121603337, guid: 2742988d17e4cc544b5c1bf64565efd2, type: 3}
       propertyPath: healthPoints
       value: 200
