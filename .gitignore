@@ -16694,3 +16694,25 @@ Assets/Asset Packs/Animations by Explosive/2Hand-Club/RPG-Character@2Hand-Club-A
 Assets/Asset Packs/Animations by Explosive/2Hand-Club.meta
 Assets/Asset Packs/Animations by Explosive/2Hand-Bow/RPG-Character@2Hand-Bow-Attack1.FBX.meta
 Assets/Asset Packs/Animations by Explosive/2Hand-Bow/RPG-Character@2Hand-Bow-Attack1.FBX
+*.meta
+*.png
+*.prefab
+*.FBX
+*.tif
+*.mat
+*.anim
+*.controller
+*.txt
+*.cs
+*.asset
+*.tiff
+*.shader
+Assets/Asset Packs/Spells Pack/Demo/Demo.unity
+*.tga
+*.ogg
+*.wav
+*.terrainlayer
+*.brush
+*.rar
+*.unity
+Assets/ALP8310_Assets/Nature Package - Forest Environment_/DemoScenes/Description For ForestDayScene.rtf
